@@ -1,8 +1,8 @@
 # install-scripts
 scripts to install needed packages on Arch GNU/Linux
 
-**Remember to run:** chmod +x [name of script.sh]
+**Remember to run:** chmod +x *script-name*.sh
 
 The above command will make the script executable so you can run the script.
 
-run: ./[name of script.sh]
+**run example:** ./*script-name*.sh

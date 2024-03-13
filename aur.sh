@@ -11,4 +11,6 @@ cd
 rm -rf /tmp/yay
 yay --version
 
-yay -S otf-openmoji ttf-twemoji ttf-twemoji-color ttf-apple-emoji brave-bin gohugo-extended-bin visual-studio-code-bin opentabletdriver nordic-darker-theme
+wait 30
+
+yay -S qtile-extras brave-bin gohugo-extended-bin visual-studio-code-bin opentabletdriver nordic-darker-theme full-dracula-theme-git arc-icon-theme-full-git ttf-jetbrains-mono-git ttf-font-awesome-5

@@ -13,4 +13,4 @@ yay --version
 
 wait 30
 
-yay -S qtile-extras brave-bin gohugo-extended-bin visual-studio-code-bin nordic-darker-theme full-dracula-theme-git arc-icon-theme-full-git ttf-jetbrains-mono-git ttf-font-awesome-5 streamdeck-ui all-repository-fonts noto-fonts-emoji noto-fonts-cjk
+yay -S qtile-extras gamescope-git brave-bin gohugo-extended-bin visual-studio-code-bin nordic-darker-theme full-dracula-theme-git ttf-jetbrains-mono-git ttf-font-awesome-5 streamdeck-ui all-repository-fonts noto-fonts-emoji noto-fonts-cjk
